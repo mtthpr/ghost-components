@@ -1,3 +1,3 @@
-# Tailwind components
+# ghøst components
 
-Tailwind Playground
+Tailwind playground | UI components, designed to integrate with Tailwind CSS.
